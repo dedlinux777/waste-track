@@ -63,10 +63,10 @@ MySQL Server
 
 ### Installation
 **Clone the repository:**
-```bash
+
 git clone [https://github.com/dedlinux777/waste-track.git](https://github.com/dedlinux777/waste-track.git)
 cd waste-track
-```
+
 
 **Install dependencies:**
 ```bash
